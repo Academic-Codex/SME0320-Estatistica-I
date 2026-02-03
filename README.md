@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SME0320-Estatistica-I">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:41:16.525371Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SME0320-Estatistica-I?utm_source=SME0320-Estatistica-I&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:41:24.955692Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
